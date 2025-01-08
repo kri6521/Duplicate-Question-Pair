@@ -1,15 +1,15 @@
 # Duplicate-Question-Pair
 
-## Overview
+## 🌟 Overview
 This NLP project uses machine learning to determine if two questions are duplicates based on their textual content. The application is built using Streamlit for the frontend and machine learning models for detecting duplicate question pairs.
 
-## Features
+## ✨ Features
 - Text Input: Users can input two questions into the interface.
 - Duplicate Detection: The model predicts whether the two questions are duplicates or not.
 - Preprocessing: The input questions undergo preprocessing (removing stop words, tokenization, handling special characters, etc.        
 - Feature Engineering: Various features are calculated, including token-based features, length-based features, and fuzzy string matching features.
 
-## Requirements
+## 🛠️ Requirements
 - Python 3.x
 - Streamlit
 - scikit-learn
@@ -18,7 +18,7 @@ This NLP project uses machine learning to determine if two questions are duplica
 - BeautifulSoup
 - pickle
 
-## How It Works
+## 🚀 How It Works
 1. Text Preprocessing: The input questions undergo preprocessing where:
 - Special characters are replaced with text equivalents.
 - Contractions are expanded.
