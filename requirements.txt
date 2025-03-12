@@ -1,0 +1,10 @@
+streamlit
+numpy
+scipy
+pandas
+scikit-learn
+fuzzywuzzy
+python-Levenshtein
+beautifulsoup4
+lxml
+pickle5
